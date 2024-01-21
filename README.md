@@ -2,7 +2,7 @@
 
 Это моя третья работа в рамках курса Веб - вëрстка Базовый уровень от <a href="https://skillbox.ru" target="_blank">Skillbox</a>
 
-[link](https://skillbox.ru){:target="_blank"}
+[link](https://skillbox.ru) {:target="_blank"}
 
 Применины:
 

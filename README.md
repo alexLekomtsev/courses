@@ -1,8 +1,6 @@
 # Курсы 3D моделирования (Skillbox)
 
-Это моя третья работа в рамках курса Веб - вëрстка Базовый уровень от <a href="https://skillbox.ru" target="_blank">Skillbox</a>
-
-[link](https://skillbox.ru) {:target="_blank"}
+Это моя третья работа в рамках курса Веб - вëрстка Базовый уровень от [Skillbox](https://skillbox.ru) 
 
 Применины:
 
@@ -15,4 +13,4 @@
   <li>Bootstrap v4.6</li>
 </ul>
 
-Посмотреть страницу можно по этой <a href="https://alexlekomtsev.github.io/courses/">ссылке</a>.
+Посмотреть страницу можно по этой [ссылке](https://alexlekomtsev.github.io/courses/).
